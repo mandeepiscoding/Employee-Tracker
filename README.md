@@ -2,6 +2,8 @@
 
 This command-line application allows users to manage departments, roles, and employees within a company database.
 
+![Screenshot](assets/screenshot.png)
+
 ## Table of Contents
 
 - [Features](#features)
