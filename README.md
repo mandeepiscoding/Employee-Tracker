@@ -28,6 +28,9 @@ This command-line application allows users to manage departments, roles, and emp
 - Inquirer.js
 - Console.table
 
+## Video Link
+https://drive.google.com/file/d/1m-VEvS9RvwzYfda4KJnuzyBjKa-KrIIo/view
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
