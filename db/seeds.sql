@@ -24,7 +24,7 @@ VALUES
   ('John', 'Doe', 1, null),
   ('Mike', 'Chan', 2, 1),
   ('Ashley', 'Rodriguez', 3, null),
-  ('Kevin', 'Hogan', 4, 3),
+  ('', 'Singh', 4, 3),
   ('Kunal', 'Singh', 5, null),
   ('Malia', 'Brown', 6, 5),
   ('Sarah', 'Lourd', 7, null),
